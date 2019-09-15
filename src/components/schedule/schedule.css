@@ -1,0 +1,31 @@
+/***********************
+    SCHEDULE
+***********************/
+
+.schedule-container {
+  position: relative;
+  padding: 4vh 0vw;
+  margin: 0px 10px;
+}
+
+.schedule-outer {
+  display: inline-block;
+  width: 25%;
+  box-sizing: border-box;
+  padding: 3px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: lightblue;
+}
+
+.schedule-inner {
+  font-size: 16px;
+  box-sizing: border-box;
+  width: 100%;
+  margin: 0;
+  padding: 20px;
+}
+
+/***********************
+    SCHEDULE
+***********************/

@@ -1,0 +1,45 @@
+/***********************
+    TWITCH
+***********************/
+
+.twitch-panels-container {
+  position: relative;
+  margin: 3vh -1vw;
+}
+
+.panel-link {
+  position: relative;
+  display: block;
+  float: left;
+  width: 50%;
+  height: 20vh;
+  padding: 10px;
+}
+
+.inner-panel-container {
+  position: relative;
+  display: block;
+  padding: 20px;
+}
+
+.panel-icon {
+  position: absolute;
+  top: 7vh;
+  left: 2vw;
+  display: block;
+  text-align: center;
+}
+
+.panel-text {
+  position: relative;
+  display: inline-block;
+  padding-left: 6vw;
+  text-align: left;
+}
+
+.panel-text p {
+  width: 100%;
+}
+/***********************
+    TWITCH
+***********************/

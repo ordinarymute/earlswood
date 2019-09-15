@@ -1,0 +1,63 @@
+/***********************
+    NAVBAR
+***********************/
+
+.nav-wrapper {
+  margin-bottom: -1vh;
+}
+
+#brand-logo {
+  display: block;
+  float: left;
+  padding-top: 1vh;
+}
+
+#brand-logo img {
+  margin-top: 2vh;
+  width: 48px;
+  height: 48px;
+}
+
+#brand-logo h1 {
+  display: inline-block;
+  padding-left: 1vw;
+  margin: 0;
+  font-size: 4rem;
+  font-weight: 350;
+}
+
+#nav-links {
+  display: block;
+  float: right;
+  margin-top: 2vh;
+}
+
+#nav-links ul li {
+  display: inline-block;
+  padding: 1em 1em;
+}
+
+#banner img {
+  width: 100%;
+}
+
+.twitch-button {
+  color: #ffffff;
+  font-size: 11px;
+  text-transform: uppercase;
+}
+
+.twitch-button-left {
+  background-color: #6441a4;
+  padding: 11px 7px;
+  border-radius: 2px 0 0 2px;
+}
+
+.twitch-button-right {
+  background-color: #4b367c;
+  padding: 11px 7px;
+  border-radius: 0px 2px 2px 0px;
+}
+/***********************
+    NAVBAR
+***********************/
