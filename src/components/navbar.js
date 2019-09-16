@@ -9,7 +9,7 @@ const Navbar = () => {
     <div className="nav-wrapper">
       <div className="container">
         <Link to="/"id="brand-logo">
-          <img src="/img/wolf_pack_logo.png" alt="Mute Words" />
+          <img src="img/wolf_pack_logo.png" alt="Mute Words" />
           <h1>EARLSWOOD</h1>
         </Link>
         <div id="nav-links">

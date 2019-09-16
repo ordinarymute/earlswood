@@ -15,7 +15,7 @@ class App extends Component {
           </header>
           <section id="home">
             <div id="banner">
-              <img src="/img/wolf_pack_community_background.png" alt="Mute Banner" />
+              <img src="img/wolf_pack_community_background.png" alt="Mute Banner" />
             </div>
             <EmbeddedTwitch targetID="twitch-embed" width="1200" height="480" channel="earlswood" />
           </section>
