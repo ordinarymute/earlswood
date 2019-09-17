@@ -2,8 +2,10 @@
     NAVBAR
 ***********************/
 
-.nav-wrapper {
-  margin-bottom: -1vh;
+.nav-container {
+  width: 80%;
+  margin: 0 auto;
+  max-width: 1280px;
 }
 
 #brand-logo {
@@ -13,32 +15,37 @@
 }
 
 #brand-logo img {
-  margin-top: 2vh;
-  width: 48px;
-  height: 48px;
+  margin-top: 1vh;
+  width: 55px;
+  height: 55px;
 }
 
 #brand-logo h1 {
   display: inline-block;
-  padding-left: 1vw;
-  margin: 0;
-  font-size: 4rem;
+  position: absolute;
+  top: 2.5vh;
+  border-left: 1px solid #8E8888;
+  padding-left: .5vw;
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-left: 1vw;
+  font-size: 3rem;
   font-weight: 350;
 }
 
 #nav-links {
   display: block;
   float: right;
-  margin-top: 2vh;
+  margin-top: 1vh;
+}
+
+.nav-border {
+  border-left: 1px solid #8E8888;
 }
 
 #nav-links ul li {
   display: inline-block;
-  padding: 1em 1em;
-}
-
-#banner img {
-  width: 100%;
+  padding: .5em 1em;
 }
 
 .twitch-button {
